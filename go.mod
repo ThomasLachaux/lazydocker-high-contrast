@@ -46,3 +46,5 @@ require (
 	gopkg.in/yaml.v2 v2.2.2 // indirect
 	gotest.tools v2.2.0+incompatible // indirect
 )
+
+replace github.com/jesseduffield/gocui => github.com/thomaslachaux/gocui-high-contrast v0.3.1-0.20220207173027-386af7327563
